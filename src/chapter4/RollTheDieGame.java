@@ -15,7 +15,6 @@ public class RollTheDieGame {
         for(int i = 0 ; i < dieRolls ; i++){
             int die = random.nextInt(1,6);
             remainingSpaces = boardSpaces-die;
-
             System.out.println("Roll #" + (i+1) + " : You've rolled a " + die + " You are now on space 3 and have 17 more to go");
         }
     }
