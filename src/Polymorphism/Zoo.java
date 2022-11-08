@@ -1,4 +1,4 @@
-package chapter10;
+package Polymorphism;
 
 public class Zoo {
     public static void main(String[] args) {

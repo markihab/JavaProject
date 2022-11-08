@@ -1,4 +1,4 @@
-package chapter11;
+package Abstraction_Interfaces;
 
 public interface Product {
     double getPrice();

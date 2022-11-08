@@ -1,4 +1,4 @@
-package chapter10;
+package Polymorphism;
 
 public class Dog extends Animal{
     @Override

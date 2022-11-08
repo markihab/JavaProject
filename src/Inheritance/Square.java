@@ -1,4 +1,4 @@
-package chapter9;
+package Inheritance;
 
 public class Square extends Rectangle{
 
